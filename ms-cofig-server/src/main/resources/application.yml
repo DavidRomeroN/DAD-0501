@@ -9,7 +9,7 @@ spring:
         git:
           uri: https://github.com/DavidRomeroN/DAD-0501.git
           searchPaths: config-data
-          default-label: registry-server
+          default-label: main
   security:
     user:
       name: root
